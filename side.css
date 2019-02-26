@@ -1,0 +1,29 @@
+.grey{
+      background-color: #000;
+      padding: 8px;
+      color: white;
+    }
+    .side{
+      list-style-position: right;
+      float: right;
+      width: 200px;
+      margin: auto;
+      padding-bottom: auto;
+    }
+    .glyphicon{
+      font-size: 1.5em;
+      box-shadow: 1px, 3px;
+    }
+    .search{
+      width: 300px;
+      margin: auto;
+      text-decoration: none;
+      float: right;
+      padding-bottom: 10px;
+      border-color: red;
+    }
+    .head{
+      }
+      .cent{
+        color: brown;
+      }
